@@ -408,4 +408,12 @@ duf
 htop
 neofetch
 netctl
+os-prober
+dialog
+pipewire
+wireplumber
+pipewire-audio
+pipewire-alsa
+pipewire-pulse
+pavucontrol
 
