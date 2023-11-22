@@ -1,0 +1,6 @@
+firefox
+krita
+gimp
+inkscape
+chromium
+

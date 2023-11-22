@@ -1,0 +1,7 @@
+pipewire
+pipewire-audio
+pipewire-alsa
+wireplumber
+pipewire-pulse
+pavucontrol
+
