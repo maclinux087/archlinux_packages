@@ -404,8 +404,8 @@ xz
 zlib
 zsh
 zstd
-firefox
 duf
 htop
 neofetch
+netctl
 
